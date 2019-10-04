@@ -2,7 +2,7 @@
 
 ## Regular Check-ins
 [Running ToDo Lists](/todos)
-Check in with this each day (Slack reminder perhaps?)
+Check in with this each day (Slackbot reminder perhaps?)
 
 ## Communication
 Slack primarily on our subchannel, and also face to face checkins during class days. Weekend meetups when deliverables approach (online or in person).
