@@ -6,7 +6,7 @@ Our app is a mobile version of the game Dominion. Dominion is a deck-building ca
 The mobile app version of Dominion seeks to recreate the experience of a multiplayer card game by using 
 a visual interface imitating the physical setup of the card game. 
 
-###Implementation
+## Implementation
 The app operates using a finite state machine contained in a Spring/Hibernate server-side structure,
 which is set up to received API and HTTP calls from connected devices. The design is modular. The present iteration
 of the app uses Android devices for the user-facing functions, but the server-side code should be 
@@ -19,7 +19,7 @@ of decks, player hands, and discard piles, and returns the next available state 
 
 
 ## Intended Users
-###
+
 The intended users of our app are gamers who:
 * want to play against their friends
 * enjoy deck building games
