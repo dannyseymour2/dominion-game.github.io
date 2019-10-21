@@ -1,4 +1,4 @@
-#Game Rules
+# Game Rules
 
 Dominion is a deck-building card game. Each player uses a separate deck of cards and
 draw their hands from their own decks, not others'. Players use the cards in their

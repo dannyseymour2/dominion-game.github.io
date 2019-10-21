@@ -31,3 +31,6 @@ The intended users of our app are gamers who:
 [Game Rules](docs/game-rules.md)
 
 [Ground Rules](docs/ground-rules.md)
+
+## Link to Project Repositories
+[Service and Database](https://github.com/dominion-game/dominion-service)
