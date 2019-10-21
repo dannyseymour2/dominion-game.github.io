@@ -34,3 +34,6 @@ The intended users of our app are gamers who:
 
 ## Link to Project Repositories
 [Service and Database](https://github.com/dominion-game/dominion-service)
+
+## Data Model Implementation
+[Link] (/docs/data-model-implementation.md)
