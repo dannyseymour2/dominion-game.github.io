@@ -28,7 +28,7 @@ The intended users of our app are gamers who:
 * [User Stories](docs/user-stories.md)
 
 ## Wireframe 
-* [![Wireframe](docs/wireframe.md)
+* [Wireframe](docs/wireframe.md)
 
 ## Data Model Implementation
 * [ERD](/docs/data-model-implementation.md)
