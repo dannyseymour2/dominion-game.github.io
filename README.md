@@ -6,6 +6,11 @@ Our app is a mobile version of the game Dominion. Dominion is a deck-building ca
 The mobile app version of Dominion seeks to recreate the experience of a multiplayer card game by using 
 a visual interface imitating the physical setup of the card game. 
 
+## Creators:
+* Daniel Seymour
+* Erica DuBois
+* Sami Heard
+
 ## Implementation
 The app operates using a finite state machine contained in a Spring/Hibernate server-side structure,
 which is set up to received API and HTTP calls from connected devices. The design is modular. The present iteration
