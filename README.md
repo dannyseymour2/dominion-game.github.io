@@ -25,10 +25,8 @@ of decks, player hands, and discard piles, and returns the next available state 
 
 ## Intended Users
 
-The intended users of our app are gamers who:
-* want to play against their friends
-* enjoy deck building games
-* want to play on a mobile device
+* As a mobile gamer, I want a game that is fully playable on a mobile device.
+* As a social gamer, I want a game that interacts with other gamers instead of a computer.
 
 
 [User Stories](docs/user-stories.md)
