@@ -25,20 +25,20 @@ The intended users of our app are gamers who:
 * enjoy deck building games
 * want to play on a mobile device
 
-[User Stories](docs/user-stories.md)
+* [User Stories](docs/user-stories.md)
 
 ## Wireframe 
-[![Wireframe](/docs/DominionWireframe.png)](/docs/DominionWireframe.pdf)
+* [![Wireframe](docs/wireframe.md)
 
 ## Data Model Implementation
-[Link](/docs/data-model-implementation.md)
+* [ERD](/docs/data-model-implementation.md)
 
 ## Project Repositories
-[Service and Database](https://github.com/dominion-game/dominion-service/tree/master/src/main/java/edu/cnm/deepdive/dominionservice/model/dao)
+* [Repositories](https://github.com/dominion-game/dominion-service/tree/master/src/main/java/edu/cnm/deepdive/dominionservice/model/dao)
 
 ## Service Implementation
-[Controllers](https://github.com/dominion-game/dominion-service/tree/master/src/main/java/edu/cnm/deepdive/dominionservice/controller)
-[Services](https://github.com/dominion-game/dominion-service/tree/master/src/main/java/edu/cnm/deepdive/dominionservice/service)
+* [Controllers](https://github.com/dominion-game/dominion-service/tree/master/src/main/java/edu/cnm/deepdive/dominionservice/controller)
+* [Services](https://github.com/dominion-game/dominion-service/tree/master/src/main/java/edu/cnm/deepdive/dominionservice/service)
 
 ## Team Roster
 * Daniel Seymour
