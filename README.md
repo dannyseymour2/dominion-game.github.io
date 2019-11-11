@@ -1,15 +1,9 @@
 # Dominion
 
 ## Description
-
 Our app is a mobile version of the game Dominion. Dominion is a deck-building card game for 2+ players.
 The mobile app version of Dominion seeks to recreate the experience of a multiplayer card game by using 
 a visual interface imitating the physical setup of the card game. 
-
-## Creators:
-* Daniel Seymour
-* Erica DuBois
-* Sami Heard
 
 ## Implementation
 The app operates using a finite state machine contained in a Spring/Hibernate server-side structure,
@@ -24,16 +18,14 @@ of decks, player hands, and discard piles, and returns the next available state 
 
 
 ## Intended Users
-
-* As a mobile gamer, I want a game that is fully playable on a mobile device.
-* As a social gamer, I want a game that interacts with other gamers instead of a computer.
-
+The intended users of our app are gamers who:
+* want to play against their friends
+* enjoy deck building games
+* want to play on a mobile device
 
 [User Stories](docs/user-stories.md)
 
 [Game Rules](docs/game-rules.md)
-
-[Ground Rules](docs/ground-rules.md)
 
 ## Link to Project Repositories
 [Service and Database](https://github.com/dominion-game/dominion-service)
@@ -44,3 +36,9 @@ of decks, player hands, and discard piles, and returns the next available state 
 ## Wireframe 
 [![Wireframe](/docs/DominionWireframe.png)](/docs/DominionWireframe.pdf)
 
+## Team Roster
+* Daniel Seymour
+* Erica DuBois
+* Sami Heard
+
+[Ground Rules](docs/ground-rules.md)

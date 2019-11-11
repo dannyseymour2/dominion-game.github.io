@@ -1,7 +1,6 @@
 # User Stories
 
-* As a user, I want a game that allows me to play against my friends.
-* As a user, I want a mobile app, so that I can play anytime, anywhere.
-* As a user, I want a game that stores my progress, so that I can close the app and resume in
- the same spot.
+* As a social gamer, I want a game that allows me to play against other gamers.
+* As a mobile gamer, I want a game that is fully playable on a mobile device.
+
  
