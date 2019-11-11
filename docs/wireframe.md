@@ -1,3 +1,3 @@
 # Wireframe
 
- [![Wireframe](/docs/DominionWireframe.png)](/docs/DominionWireframe.pdf)
+* [![Wireframe](/docs/DominionWireframe.png)](/docs/DominionWireframe.pdf)
