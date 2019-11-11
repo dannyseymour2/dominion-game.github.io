@@ -42,3 +42,7 @@ The intended users of our app are gamers who:
 
 ## Data Model Implementation
 [Link](/docs/data-model-implementation.md)
+
+## Wireframe 
+[![Wireframe](/docs/DominionWireframe.png)](/docs/DominionWireframe.pdf)
+
