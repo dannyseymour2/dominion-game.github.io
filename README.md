@@ -1,10 +1,11 @@
 # Dominion
 
 ## Description
-
 Our app is a mobile version of the game Dominion. Dominion is a deck-building card game for 2+ players.
 The mobile app version of Dominion seeks to recreate the experience of a multiplayer card game by using 
 a visual interface imitating the physical setup of the card game. 
+
+[Game Rules](docs/game-rules.md)
 
 ## Implementation
 The app operates using a finite state machine contained in a Spring/Hibernate server-side structure,
@@ -19,24 +20,32 @@ of decks, player hands, and discard piles, and returns the next available state 
 
 
 ## Intended Users
-
 The intended users of our app are gamers who:
 * want to play against their friends
 * enjoy deck building games
 * want to play on a mobile device
 
+* [User Stories](docs/user-stories.md)
 
-[User Stories](docs/user-stories.md)
-
-[Game Rules](docs/game-rules.md)
-
-[Ground Rules](docs/ground-rules.md)
-
-## Link to Project Repositories
-[Service and Database](https://github.com/dominion-game/dominion-service)
+## Wireframe 
+* [Wireframe](docs/wireframe.md)
 
 ## Data Model Implementation
-[Link](/docs/data-model-implementation.md)
+* [ERD](/docs/data-model-implementation.md)
+
+## Project Repositories
+* [Repositories](https://github.com/dominion-game/dominion-service/tree/master/src/main/java/edu/cnm/deepdive/dominionservice/model/dao)
+
+## Service Implementation
+* [Controllers](https://github.com/dominion-game/dominion-service/tree/master/src/main/java/edu/cnm/deepdive/dominionservice/controller)
+* [Services](https://github.com/dominion-game/dominion-service/tree/master/src/main/java/edu/cnm/deepdive/dominionservice/service)
+
+## Team Roster
+* Daniel Seymour
+* Erica DuBois
+* Sami Heard
+
+[Ground Rules](docs/ground-rules.md)
 
 ## Controllers
 [Link](https://github.com/dominion-game/dominion-service/tree/master/src/main/java/edu/cnm/deepdive/dominionservice/controller)
