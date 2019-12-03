@@ -35,9 +35,25 @@ The intended users of our app are gamers who:
 ## Wireframe 
 * [Wireframe](docs/wireframe.md)
 
+## Technology Stack
+* [Technology Stack](docs/technology-stack.md)
+
 ## Data Model Implementation
 * [ERD](/docs/data-model-implementation.md)
 
+## DDL
+
+## Java-Doc
+
+## Copyright
+
+## Build Instructions
+* [Build Instructions](docs/build-instructions.md)
+
+## Basic User Instructions
+[Basic User Instrucitons](docs/basic-user-instructions.md)
+
+##
 ## Project Repositories
 * [Repositories](https://github.com/dominion-game/dominion-service/tree/master/src/main/java/edu/cnm/deepdive/dominionservice/model/dao)
 
