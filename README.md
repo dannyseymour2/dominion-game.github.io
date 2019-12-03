@@ -5,6 +5,11 @@ Our app is a mobile version of the game Dominion. Dominion is a deck-building ca
 The mobile app version of Dominion seeks to recreate the experience of a multiplayer card game by using 
 a visual interface imitating the physical setup of the card game. 
 
+This project has been fun for us because we all love playing board games. Our Dominion app has 
+allowed us to apply what we've learned in this bootcamp while creating a mobile version of a game 
+we all enjoy. We believe other Dominion players will appreciate our app and we hope to introduce the
+game to many more gamers as well. 
+
 [Game Rules](docs/game-rules.md)
 
 ## Implementation
@@ -41,9 +46,18 @@ The intended users of our app are gamers who:
 * [Services](https://github.com/dominion-game/dominion-service/tree/master/src/main/java/edu/cnm/deepdive/dominionservice/service)
 
 ## Team Roster
-* Daniel Seymour
-* Erica DuBois
-* Sami Heard
+* Daniel Seymour - Dominion Server, Firebase
+    * Dannyseymour2@gmail.com
+    * Dannyseymour.github.io
+    
+* Erica DuBois - Dominion - User Interface, Game Logic
+    * erica.dubois9119@gmail.com
+    * edubois9119.github.io
+    
+* Sami Heard - Dominion Server, GameLogic, UI
+    * samimheard@gmail.com
+    * Github.com/sm-heard
+
 
 [Ground Rules](docs/ground-rules.md)
 
