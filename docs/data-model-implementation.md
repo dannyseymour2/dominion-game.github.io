@@ -7,7 +7,5 @@
 
 
 
-## Repositories
-[Repositories on Github](https://github.com/dominion-game/dominion-service/tree/master/src/main/java/edu/cnm/deepdive/dominionservice/model/dao) 
 
 

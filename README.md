@@ -1,8 +1,14 @@
 # Dominion
 
 [Server Side Code](https://github.com/dannyseymour/dominion-endpoint-test-spring)
+
+
 [Client Side Code](https://github.com/dannyseymour/DominionAndroidTesting)
-[JavaDoc](/docs/index.html)
+
+
+[JavaDoc](/docs/api/index.html)
+
+
 ## Description
 Our app is a mobile version of the game Dominion. Dominion is a deck-building card game for 2+ players.
 The mobile app version of Dominion seeks to recreate the experience of a multiplayer card game by using 
