@@ -58,6 +58,8 @@ The intended users of our app are gamers who:
 ## Copyright
 [Copyrights and Licensing](/docs/api/copyright-licensing.md)
 
+## Project Summary
+* [Project Summary](doc/)
 ## Build Instructions
 * [Build Instructions](docs/build-instructions.md)
 
