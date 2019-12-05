@@ -41,19 +41,20 @@ The intended users of our app are gamers who:
 ## Data Model Implementation
 * [ERD](/docs/data-model-implementation.md)
 
-## DDL
+## 
+* [DDL](/docs/ddl.md)
 
 ## Java-Doc
 
 ## Copyright
+[Copyrights and Licensing](/docs/copyright-licensing.md)
 
 ## Build Instructions
 * [Build Instructions](docs/build-instructions.md)
 
 ## Basic User Instructions
-[Basic User Instrucitons](docs/basic-user-instructions.md)
+[Basic User Instructions](docs/basic-user-instructions.md)
 
-##
 ## Project Repositories
 * [Repositories](https://github.com/dominion-game/dominion-service/tree/master/src/main/java/edu/cnm/deepdive/dominionservice/model/dao)
 
