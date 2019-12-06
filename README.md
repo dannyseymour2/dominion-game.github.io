@@ -78,8 +78,16 @@ The intended users of our app are gamers who:
 * [Repositories](https://github.com/dominion-game/dominion-service/tree/master/src/main/java/edu/cnm/deepdive/dominionservice/model/dao)
 
 ## Service Implementation
-* [Controllers](https://github.com/dominion-game/dominion-service/tree/master/src/main/java/edu/cnm/deepdive/dominionservice/controller)
-* [Services](https://github.com/dominion-game/dominion-service/tree/master/src/main/java/edu/cnm/deepdive/dominionservice/service)
+* [Controllers](https://github.com/dannyseymour/dominion-endpoint-test-spring/tree/authentication/src/main/java/edu/cnm/deepdive/dominionendpointtestspring/controller)
+* [Services](https://github.com/dannyseymour/dominion-endpoint-test-spring/tree/authentication/src/main/java/edu/cnm/deepdive/dominionendpointtestspring/service)
+* [Model](https://github.com/dannyseymour/dominion-endpoint-test-spring/tree/authentication/src/main/java/edu/cnm/deepdive/dominionendpointtestspring/model)
+
+## Frontend Implementation
+*[Controllers](https://github.com/dannyseymour/DominionAndroidTesting/tree/master/app/src/main/java/edu/cnm/deepdive/dominion_android_testing/controller)
+*[ViewModel](https://github.com/dannyseymour/DominionAndroidTesting/tree/master/app/src/main/java/edu/cnm/deepdive/dominion_android_testing/viewmodel)
+*[Services](https://github.com/dannyseymour/DominionAndroidTesting/tree/master/app/src/main/java/edu/cnm/deepdive/dominion_android_testing/service)
+*[Model](https://github.com/dannyseymour/DominionAndroidTesting/tree/master/app/src/main/java/edu/cnm/deepdive/dominion_android_testing/model)
+
 
 ## Team Roster
 * Daniel Seymour - Dominion Server, Firebase
@@ -97,24 +105,4 @@ The intended users of our app are gamers who:
 
 [Ground Rules](docs/ground-rules.md)
 
-## Controllers
-* [Link](https://github.com/dominion-game/dominion-service/tree/master/src/main/java/edu/cnm/deepdive/dominionservice/controller)
-
-## Services
-* [State Machine](https://github.com/dominion-game/dominion-service/blob/master/src/main/java/edu/cnm/deepdive/dominionservice/service/state/StateMachineConfig.java)   
-* [State Machine Description](/docs/state%20machine.jpg) 
-* [GameLogic](https://github.com/dominion-game/dominion-service/blob/master/src/main/java/edu/cnm/deepdive/dominionservice/service/GameLogic.java)
-
-
-## Key Data Objects
-These are used as the "packages" containing game state and are passed back and forth between service classes,
-the state machine, and the client.
-
-[GameStateInfo- contains information about the whole game state](https://github.com/dominion-game/dominion-service/blob/master/src/main/java/edu/cnm/deepdive/dominionservice/model/dto/GameStateInfo.java)
-
-[PlayerStateInfo- contains information specific to a Player's state](https://github.com/dominion-game/dominion-service/blob/master/src/main/java/edu/cnm/deepdive/dominionservice/model/dto/PlayerStateInfo.java)
-
-## Key TODOs
-We have not yet set up the "lobby"- the states before the game is actually in progress. These are configured in the state machine but not yet implemented.
-We need to get Oauth configured to actually add players to the game by passing their credentials.
 
