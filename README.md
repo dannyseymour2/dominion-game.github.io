@@ -1,13 +1,10 @@
 # Dominion
 
+## Server Side Code
 [Server Side Code](https://github.com/dannyseymour/dominion-endpoint-test-spring)
 
-
+##Server Side Code
 [Client Side Code](https://github.com/dannyseymour/DominionAndroidTesting)
-
-
-[JavaDoc](/docs/api/index.html)
-
 
 ## Description
 Our app is a mobile version of the game Dominion. Dominion is a deck-building card game for 2+ players.
@@ -54,17 +51,19 @@ The intended users of our app are gamers who:
 * [DDL](/docs/ddl.md)
 
 ## Java-Doc
+* [JavaDoc](/docs/api/index.html)
 
 ## Copyright
-[Copyrights and Licensing](/docs/api/copyright-licensing.md)
+* [Copyrights and Licensing](/docs/api/copyright-licensing.md)
 
 ## Project Summary
 * [Project Summary](doc/)
+
 ## Build Instructions
 * [Build Instructions](docs/build-instructions.md)
 
 ## Basic User Instructions
-[Basic User Instructions](docs/basic-user-instructions.md)
+* [Basic User Instructions](docs/basic-user-instructions.md)
 
 ## Project Repositories
 * [Repositories](https://github.com/dominion-game/dominion-service/tree/master/src/main/java/edu/cnm/deepdive/dominionservice/model/dao)
@@ -90,12 +89,12 @@ The intended users of our app are gamers who:
 [Ground Rules](docs/ground-rules.md)
 
 ## Controllers
-[Link](https://github.com/dominion-game/dominion-service/tree/master/src/main/java/edu/cnm/deepdive/dominionservice/controller)
+* [Link](https://github.com/dominion-game/dominion-service/tree/master/src/main/java/edu/cnm/deepdive/dominionservice/controller)
 
 ## Services
-[State Machine](https://github.com/dominion-game/dominion-service/blob/master/src/main/java/edu/cnm/deepdive/dominionservice/service/state/StateMachineConfig.java)   
-[State Machine Description](/docs/state%20machine.jpg) 
-[GameLogic](https://github.com/dominion-game/dominion-service/blob/master/src/main/java/edu/cnm/deepdive/dominionservice/service/GameLogic.java)
+* [State Machine](https://github.com/dominion-game/dominion-service/blob/master/src/main/java/edu/cnm/deepdive/dominionservice/service/state/StateMachineConfig.java)   
+* [State Machine Description](/docs/state%20machine.jpg) 
+* [GameLogic](https://github.com/dominion-game/dominion-service/blob/master/src/main/java/edu/cnm/deepdive/dominionservice/service/GameLogic.java)
 
 
 ## Key Data Objects
