@@ -56,7 +56,7 @@ The intended users of our app are gamers who:
 ## Data Model Implementation
 * [ERD](/docs/data-model-implementation.md)
 
-## 
+## Database Description Language
 * [DDL](/docs/ddl.md)
 
 ## Java-Doc
