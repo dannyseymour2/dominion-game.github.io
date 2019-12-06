@@ -1,9 +1,11 @@
 # Dominion
 
 ## Server Side Code
+
 [Server Side Code](https://github.com/dannyseymour/dominion-endpoint-test-spring)
 
-##Server Side Code
+##Server Side Code . 
+
 [Client Side Code](https://github.com/dannyseymour/DominionAndroidTesting)
 
 ## Description
