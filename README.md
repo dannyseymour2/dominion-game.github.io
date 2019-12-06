@@ -18,6 +18,13 @@ game to many more gamers as well.
 
 [Game Rules](docs/game-rules.md)
 
+## Current State of the Project
+
+The project currently does not function as intended. We are running into bugs at the point of contact between our client and our server
+which make it difficult to connect. The server can send data to the client, but the client either has trouble processing these data, or perhaps receives errors upon
+the next request. Players and Games can be created and stored, and the initialization of a new game appears to work, but it is unclear what the HTTP issues are that prevent 
+forward progress. We will demo what we have for Demo day, and do our best to make a fully functional game for the presentation next week.
+
 ## Implementation
 The app operates using a finite state machine contained in a Spring/Hibernate server-side structure,
 which is set up to received API and HTTP calls from connected devices. The design is modular. The present iteration
