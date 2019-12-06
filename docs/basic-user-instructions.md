@@ -1,4 +1,4 @@
-###Welcome to Dominion!
+### Welcome to Dominion!
 
 Once you've launched the app, you will be asked to sign in with your google account.
 
