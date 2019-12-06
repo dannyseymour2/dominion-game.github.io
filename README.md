@@ -4,7 +4,7 @@
 
 [Server Side Code](https://github.com/dannyseymour/dominion-endpoint-test-spring)
 
-##Client Side Code . 
+## Client Side Code . 
 
 [Client Side Code](https://github.com/dannyseymour/DominionAndroidTesting)
 
